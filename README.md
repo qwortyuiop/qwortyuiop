@@ -1,6 +1,10 @@
-## Hi there 👋
+## 👀
 
-I'm trying to do stuff 😭
+- I'm trying to build a hardware project rn (osu! keyboard)
+- I hope to make a few desktop apps in the (near future)
+- My goal is to complete the Full Stack and DevOps Roadmaps to become a super HAXX0r
+- Stay tuned ig
+
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/687403f63ed27010bd180895?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops%2Ccyber-security" alt="roadmap.sh"/></a>
 
