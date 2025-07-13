@@ -7,8 +7,7 @@
 - Stay tuned ig
 
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/687403f63ed27010bd180895?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops%2Ccyber-security" alt="roadmap.sh"/></a>
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/687403f63ed27010bd180895?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
 **qwortyuiop/qwortyuiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
