@@ -5,7 +5,9 @@
 - Working on CompTIA Certs 
 - My goal is to complete the Full Stack, Cyber, and DevOps Roadmaps to become a super HAXX0r
 - Stay tuned ig
-
+  
+[![My GitHub Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=8258&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)]()
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/687403f63ed27010bd180895?variant=dark" alt="roadmap.sh"/></a>
 
