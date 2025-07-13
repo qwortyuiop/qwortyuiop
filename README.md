@@ -2,7 +2,7 @@
 
 - I'm trying to build a hardware project rn (osu! keyboard)
 - I hope to make a few desktop apps in the (near) future
-- Working on CompTIA Certs (A+)
+- Working on CompTIA Certs 
 - My goal is to complete the Full Stack, Cyber, and DevOps Roadmaps to become a super HAXX0r
 - Stay tuned ig
 
